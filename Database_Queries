@@ -1,0 +1,17 @@
+create database restauarant_billing;
+Use restauarant_billing;
+create table billing(
+OrderNo int,
+Friesmeal int,
+LunchMeal int,
+BurgerMeal int,
+PizzaMeal int,
+CheeseBurger int,
+Drinks int,
+Cost int,
+ServiceCharge int,
+Tax int,
+SubTotal int,
+Total int
+);
+Select*From billing;
