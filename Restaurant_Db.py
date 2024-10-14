@@ -26,4 +26,4 @@ def insertbillingdetails( OrderNo , FriesMeal,LunchMeal,BurgerMeal,PizzaMeal,Che
 # cheepizza=int(input("Enter your ChessePizza"))
 # drinks=int(input("Enter your drinks"))
 
-# insertbillingdetails(ord,fries,lunch,burger,pizza,cheepizza,drinks,Cost,ServiceCharge,Tax,SubTotal,Total)
+# insertbillingdetails(OrderNo , FriesMeal,LunchMeal,BurgerMeal,PizzaMeal,CheeseBurger,Drinks,Cost ,ServiceCharge,Tax ,SubTotal , Total )
