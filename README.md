@@ -1,4 +1,4 @@
- GitHub README repository description:
+GitHub README repository description:
 
 Restaurant Billing Management System
 This project is a restaurant billing management system developed with a graphical user interface (GUI) using Python, PyCharm, and MySQL for the database. It enables restaurant staff to easily manage customer orders and generate accurate bills.
